@@ -34,3 +34,8 @@ output. Editing them does nothing — each project's source lives elsewhere.
   contradiction between the site's own pages (August guide vs `/clubs/` on
   whether Stitching runs Mondays) rather than silently picking one. Source
   lives in `~/aikyam-space-design-system/`.
+- **[constituition-text/](constituition-text/)** — constituition.org's share images carrying an
+  article's whole text, five layouts side by side, and the plainer A4 PDF. Rendered PNGs and PDFs,
+  no build step. Source: `cards/text-set.typ`, `cards/article-pdf.typ` and
+  `scripts/sample-text-sets.mjs` in github.com/folktaler/constituition, branch
+  `worktree-full-text-image-sets`.
