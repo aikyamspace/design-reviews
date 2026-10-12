@@ -34,3 +34,6 @@ output. Editing them does nothing — each project's source lives elsewhere.
   contradiction between the site's own pages (August guide vs `/clubs/` on
   whether Stitching runs Mondays) rather than silently picking one. Source
   lives in `~/aikyam-space-design-system/`.
+- **[constituition-stories/](constituition-stories/)** — court-case stories for constituition.org,
+  drafted by the content factory (github.com/folktaler/content-factory, `factory case`) from each
+  judgment's own text. One page per draft, with the checks still failing listed beneath it.
